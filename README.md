@@ -69,6 +69,9 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
   * https://pythonbasics.org/flask-rest-api/
   * https://flask.palletsprojects.com/en/3.0.x/
   * https://stackoverflow.com/questions/67460429/im-attempting-to-calculate-and-plot-the-histogram-of-the-temperatures-tmax-and
+* Starter Code
+  * climate_starter
+* Classmates and TA via Slack Channel
 
 
 
