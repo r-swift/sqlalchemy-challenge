@@ -5,7 +5,7 @@ SQL Alchemy Challenge for DU Data Analytics Bootcamp
 * SurfsUp
   * app.py
   * climate_starter data
-  * Resources Folder
+* Resources Folder
     * hawaii.sqlite
     * hawaii_measurements.csv
     * hawaii_stations.csv
